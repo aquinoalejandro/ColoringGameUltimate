@@ -35,6 +35,8 @@ pip install pygame numpy
 
 ---
 
-Listo, ya podés arrancar el juego usando "python coloringgame.py"
+Listo, ya podés arrancar el juego usando
 
+```bash
+python coloringgame.py
 ```
